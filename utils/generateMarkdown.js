@@ -1,20 +1,23 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-function renderLicenseBadge(license) {}
-
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
-
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
-
-// TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.title}
-
-`;
-}
-
-module.exports = generateMarkdown;
+function renderLicenseBadge(license) {
+    // Implement logic to return license badge based on the license type
+  }
+  
+  function renderLicenseLink(license) {
+    // Implement logic to return license link based on the license type
+  }
+  
+  function renderLicenseSection(license) {
+    // Implement logic to return license section based on the license type
+  }
+  
+  function generateMarkdown(data) {
+    // Implement logic to generate markdown content based on user input data
+  }
+  
+  module.exports = {
+    renderLicenseBadge,
+    renderLicenseLink,
+    renderLicenseSection,
+    generateMarkdown
+  };
+  
