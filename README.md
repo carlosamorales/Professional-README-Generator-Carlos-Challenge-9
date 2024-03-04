@@ -17,7 +17,7 @@ The "Professional-README-Generator-Challenge-9" project is a command-line applic
 
 ## Installation
 
-Link to the video 
+[Link to the video ](https://drive.google.com/file/d/1uFdIJOKV2QRDp1rPolsoQINMrGXt4M8O/view)
 
 ## Usage
 
