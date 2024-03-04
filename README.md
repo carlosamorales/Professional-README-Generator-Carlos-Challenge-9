@@ -21,7 +21,8 @@ Link to the video
 
 ## Usage
 
-Screenshot of the application
+![image](https://github.com/carlosamorales/Professional-README-Generator-Carlos-Challenge-9/assets/7796766/64566fe1-42cb-4fcf-b11e-87fb108c814d)
+
 
 ## License
 
@@ -29,11 +30,11 @@ This project is licensed under the MIT. Click the badge above for more details.
 
 ## Contributing
 
-undefined
+Chat GPT
 
 ## Tests
 
-follow the message after typing node.js
+follow the message prompted after typing node index.js
 
 ## Questions
 
